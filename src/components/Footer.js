@@ -2,6 +2,7 @@ import React from "react"
 import FooterNav from "./FooterNav"
 import { Link } from "gatsby"
 
+
 const Footer = ({}) => {
   return (
     <footer className="copyright-sec">
