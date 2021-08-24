@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
 import Menu from "./Menu"
-import SiteLogo from "../assets/images/logo.jpg"
+import SiteLogo from "../assets/images/logo.png"
 
 const HeaderCopy = ({ pageContext, toggleBackdrop, ...props }) => {
   const { wp } = useStaticQuery(graphql`
