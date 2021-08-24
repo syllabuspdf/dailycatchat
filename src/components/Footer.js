@@ -10,7 +10,7 @@ const Footer = ({}) => {
           <div className="footer-credits">
               <p className="footer-copyright">
                 Copyright &copy; {new Date().getFullYear()}{" "}
-                <Link to={"/"}>Cute Animal Planet. All Rights Reserved.</Link>
+                <Link to={"/"}>DailyCatChat.com. All Rights Reserved.</Link>
               </p>
             </div>  
           <div className="fmenu">

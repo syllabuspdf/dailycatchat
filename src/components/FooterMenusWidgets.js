@@ -13,15 +13,15 @@ const FooterMenusWidgets = ({}) => {
                   <div className="widget widget_text">
                       <div className="widget-content">
                         <h2 className="widget-title subheading heading-size-3">
-                          About This Site
+                          ABOUT DAILYCATCHAT.COM
                         </h2>
                         <div className="textwidget">
                             <p>
-                              Welcome to Cute Animal Planet! Our website features a montage of the cutest animals all across the globe!
+                            DailyCatChat.com is all about cats! If you love cats, then you’re going to love our website!
                             </p>
-                            <p>Here at Cute Animal Planet, we feature photos, videos, articles and various other pieces of multi-media on the cutest animals on the planet.</p>
-                            <p>Please feel free to share our website with all of your friends and family so that they too can enjoy the fun animal pictures and videos that we post every day!</p>
-                            <p> Thank you from all of us at Cute Animal Planet!</p>
+                            <p>Here at DailyCatChat.com, we feature everything from heartwarming cat rescue stories to fun &amp; entertaining cat stories to cute cat pictures and videos. We are the ultimate cat lovers website!</p>
+                            <p>Please be sure to tell your friends and family about our website so they too can enjoy the fun and entertaining cat content that we share!</p>
+                            <p> We hope you enjoy our website! Thank you from the DailyCatChat.com team!</p>
                         </div>
                       </div>
                     </div>

@@ -46,7 +46,7 @@ const Layout = ({ children, bodyClass }) => {
             </div>
             <div className="sidebar">
               <div className="widget">
-                <h3 className="widget-title">Welcome to Cute Animal Planet!</h3>
+                <h3 className="widget-title">Welcome to Daily cat chat</h3>
               </div>
               <div className="widget">
                 <RecentPost />

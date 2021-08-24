@@ -24,7 +24,7 @@ const HeaderCopy = ({ pageContext, toggleBackdrop, ...props }) => {
                 <div className="logo-section text-center">
                       <Link to="/" className="logo">
                           <figure className="image">
-                              <img src={SiteLogo} alt="Cute Animal Planet" />
+                              <img src={SiteLogo} alt="Daily Catchat" />
                           </figure>
                       </Link> 
                   </div>
